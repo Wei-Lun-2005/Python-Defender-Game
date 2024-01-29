@@ -1,4 +1,4 @@
-#Ho wei lun S10242883
+
 import random
 
 # Game variables
